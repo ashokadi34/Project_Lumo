@@ -3,3 +3,4 @@ This is demo application using react and typescript.
 Demo applications focusing UI.
 
 # Tech Stacks used in this project: React, TypeScript
+Using for UI app development.
