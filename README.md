@@ -40,4 +40,40 @@ Add a link to a deployed demo (Netlify/Vercel/GitHub Pages) or a GIF/screenshot 
 - [Optional: React Router, Zustand/Redux, Tailwind/Chakra UI]
 - Testing: [Jest / React Testing Library] (optional)
 
+## Prerequisites
+- Node.js >= 16 (or your required version)
+- npm >= 8 or yarn >= 1.22
+
+## Getting started
+
+Clone the repository and install dependencies:
+
+```bash
+git clone https://github.com/ashokadi34/Project_Lumo.git
+cd Project_Lumo/front_end_v1
+npm install
+```
+
+Run the app locally:
+
+- If this project uses Vite:
+  ```bash
+  npm run dev
+  ```
+- If this project uses Create React App:
+  ```bash
+  npm start
+  ```
+
+Build for production:
+
+```bash
+npm run build
+```
+
+Run tests:
+
+```bash
+npm test
+```
  
