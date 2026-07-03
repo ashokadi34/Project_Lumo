@@ -76,4 +76,21 @@ Run tests:
 ```bash
 npm test
 ```
+
+## Available scripts
+Document the scripts defined in package.json (update to match your file):
+
+- npm start / npm run dev — start dev server
+- npm run build — build production bundle
+- npm test — run tests
+- npm run lint — run linter
+- npm run format — run formatter
+
+## Environment variables
+List any required environment variables and provide a .env.example:
+
+- REACT_APP_API_URL — base API URL for the demo
+- Other variables your app requires
+
+Add a `.env.example` file with placeholders and add `.env` to `.gitignore`.
  
