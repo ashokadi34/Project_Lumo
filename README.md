@@ -93,4 +93,22 @@ List any required environment variables and provide a .env.example:
 - Other variables your app requires
 
 Add a `.env.example` file with placeholders and add `.env` to `.gitignore`.
+
+## Folder structure
+Give a brief overview of the main directories (update to match your repo):
+
+```
+front_end_v1/
+├─ public/             # static files, index.html
+├─ src/
+│  ├─ components/      # UI components
+│  ├─ pages/           # page components / routes
+│  ├─ hooks/           # custom hooks
+│  ├─ styles/          # global styles / theme
+│  ├─ App.tsx
+│  └─ main.tsx
+├─ package.json
+├─ tsconfig.json
+└─ README.md
+```
  
