@@ -111,4 +111,11 @@ front_end_v1/
 ├─ tsconfig.json
 └─ README.md
 ```
- 
+
+## Contributing
+- Fork the repo and create a feature branch: `git checkout -b feat/my-feature`
+- Commit changes with clear messages
+- Open a pull request describing your change
+- Add tests where applicable
+
+Consider adding a CONTRIBUTING.md with more guidelines. 
