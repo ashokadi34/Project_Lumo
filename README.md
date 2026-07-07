@@ -119,3 +119,10 @@ front_end_v1/
 - Add tests where applicable
 
 Consider adding a CONTRIBUTING.md with more guidelines. 
+
+## Troubleshooting
+- If dev server fails to start, check Node and package versions:
+  ```bash
+  node -v
+  npm -v
+  ```
