@@ -126,3 +126,9 @@ Consider adding a CONTRIBUTING.md with more guidelines.
   node -v
   npm -v
   ```
+
+- Remove node_modules and reinstall:
+  ```bash
+  rm -rf node_modules
+  npm install
+  ``
