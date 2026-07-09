@@ -132,3 +132,6 @@ Consider adding a CONTRIBUTING.md with more guidelines.
   rm -rf node_modules
   npm install
   ``
+  
+Author
+Ashok kumar
