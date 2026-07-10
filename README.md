@@ -132,6 +132,9 @@ Consider adding a CONTRIBUTING.md with more guidelines.
   rm -rf node_modules
   npm install
   ``
+
+## License
+![License](https://img.shields.io/badge/License-MIT-green)
   
 Author
 Ashok kumar
