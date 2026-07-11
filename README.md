@@ -137,4 +137,4 @@ Consider adding a CONTRIBUTING.md with more guidelines.
 ![License](https://img.shields.io/badge/License-MIT-green)
   
 Author
-Ashok kumar
+kumar Ashok 
