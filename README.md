@@ -54,7 +54,7 @@ cd Project_Lumo/front_end_v1
 npm install
 ```
 
-Run the app locally:
+ # Run the app locally:
 
 - If this project uses Vite:
   ```bash
