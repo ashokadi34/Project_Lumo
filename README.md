@@ -25,7 +25,7 @@ A demo frontend application built with React and TypeScript. This repository con
 - [Contact](#contact)
 
 ## Demo
-Add a link to a deployed demo (Netlify/Vercel/GitHub Pages) or a GIF/screenshot showing the app in action.
+[Add a link to a deployed demo (Netlify/Vercel/GitHub Pages) or a GIF/screenshot showing the app in action.]
 
 ## Features
 - Simple demo UI built with React + TypeScript
