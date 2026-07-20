@@ -46,7 +46,7 @@ A demo frontend application built with React and TypeScript. This repository con
 
 ## Getting started
 
-Clone the repository and install dependencies:
+## Clone the repository and install dependencies:
 
 ```bash
 git clone https://github.com/ashokadi34/Project_Lumo.git
