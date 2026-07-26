@@ -44,7 +44,7 @@ A demo frontend application built with React and TypeScript. This repository con
 - Node.js >= 16 (or your required version)
 - npm >= 8 or yarn >= 1.22
 
-## Getting started
+## # Getting started
 
 ## Clone the repository and install dependencies:
 
