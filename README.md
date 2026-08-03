@@ -65,7 +65,7 @@ npm install
   npm start
   ```
 
-Build for production:
+# Build for production:
 
 ```bash
 npm run build
