@@ -87,7 +87,7 @@ npm test
 - npm run format — run formatter
 
 ## Environment variables
-List any required environment variables and provide a .env.example:
+ # List any required environment variables and provide a .env.example:
 
 # - REACT_APP_API_URL — base API URL for the demo
 - Other variables your app requires
