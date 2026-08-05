@@ -95,7 +95,7 @@ npm test
 ## Add a `.env.example` file with placeholders and add `.env` to `.gitignore`.
 
 ## Folder structure
-Give a brief overview of the main directories (update to match your repo):
+## Give a brief overview of the main directories (update to match your repo):
 
 ```
 front_end_v1/
@@ -120,7 +120,7 @@ front_end_v1/
 
 Consider adding a CONTRIBUTING.md with more guidelines. 
 
-## Troubleshooting
+## Troubleshooting issues
 - If dev server fails to start, check Node and package versions:
   ```bash
   node -v
