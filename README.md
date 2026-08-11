@@ -7,8 +7,8 @@
 
  ---
 
- # Project Lumo — Frontend (front_end_v1)
-
+ # Project Lumo — Frontend
+ 
  ## A demo frontend application built with React and TypeScript. This repository contains the UI-focused demo used for testing and showcasing interface ideas for Project Lumo.
 
 ## Table of Contents
