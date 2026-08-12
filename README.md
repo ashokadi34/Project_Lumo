@@ -3,7 +3,7 @@
 ##  Demo applications focusing UI. This is for Testing and learning purpose website. 
 
 # Tech Stacks used in this project: React, TypeScript
- ## Using for UI app development. Testing
+ ## Using for UI app development. Testing Application.
 
  ---
 
