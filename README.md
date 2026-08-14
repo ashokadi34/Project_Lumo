@@ -77,7 +77,7 @@ Run tests:
 npm test
 ```
 
-## Available scripts
+## Available scripts 
 ## Document the scripts defined in package.json (update to match your file):
 
 - npm start / npm run dev — start dev server
@@ -86,7 +86,7 @@ npm test
 - npm run lint — run linter
 - npm run format — run formatter
 
-## Environment variables
+## Environment variables (Env variables)
  # List any required environment variables and provide a .env.example:
 
 # - REACT_APP_API_URL — base API URL for the demo
