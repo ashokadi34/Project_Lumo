@@ -28,8 +28,8 @@
 [Add a link to a deployed demo (Netlify/Vercel/GitHub Pages) or a GIF/screenshot showing the app in action.]
 
 ## Features
-- Simple demo UI built with React + TypeScript
-- Component-driven layout for rapid UI testing
+#- Simple demo UI built with React + TypeScript
+#- Component-driven layout for rapid UI testing
 - Placeholder for routing, state management and API mocks
 - Replace or extend these bullets with real features of your app
 
