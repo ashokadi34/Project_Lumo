@@ -30,8 +30,8 @@
 ## Features
 #- Simple demo UI built with React + TypeScript
 #- Component-driven layout for rapid UI testing
-- Placeholder for routing, state management and API mocks
-- Replace or extend these bullets with real features of your app
+#- Placeholder for routing, state management and API mocks
+#- Replace or extend these bullets with real features of your app
 
 ## Tech stack
 - React
@@ -60,7 +60,7 @@ npm install
   ```bash
   npm run dev
   ```
-- If this project uses Create React App:
+## - If this project uses Create React App:
   ```bash
   npm start
   ```
