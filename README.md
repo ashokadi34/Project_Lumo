@@ -118,7 +118,7 @@ front_end_v1/
 - Open a pull request describing your change
 - Add tests where applicable
 
-Consider adding a CONTRIBUTING.md with more guidelines. 
+# Consider adding a CONTRIBUTING.md with more guidelines. 
 
 ## Troubleshooting issues
 - If dev server fails to start, check Node and package versions:
