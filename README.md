@@ -40,7 +40,7 @@
 - [Optional: React Router, Zustand/Redux, Tailwind/Chakra UI]
 - Testing: [Jest / React Testing Library] (optional)
 
-## Prerequisites technical stacks
+## Prerequisites tech stacks
 - Node.js >= 16 (or your required version)
 - npm >= 8 or yarn >= 1.22
 
@@ -71,7 +71,7 @@ npm install
 npm run build
 ```
 
-Run tests:
+## Run tests:
 
 ```bash
 npm test
