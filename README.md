@@ -112,7 +112,7 @@ front_end_v1/
 └─ README.md
 ```
 
-## Contributing
+## Contributing to repo, testing purpose project
 - Fork the repo and create a feature branch: `git checkout -b feat/my-feature`
 - Commit changes with clear messages
 - Open a pull request describing your change
