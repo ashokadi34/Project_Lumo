@@ -41,8 +41,8 @@
 - Testing: [Jest / React Testing Library] (optional)
 
 ## Prerequisites tech stacks
-- Node.js >= 16 (or your required version)
-- npm >= 8 or yarn >= 1.22
+#- Node.js >= 16 (or your required version)
+#- npm >= 8 or yarn >= 1.22
 
 ## # Getting started
 
