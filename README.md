@@ -80,7 +80,7 @@ npm test
 ## Available scripts 
 ## Document the scripts defined in package.json (update to match your file):
 
-- npm start / npm run dev — start dev server
+# - npm start / npm run dev — start dev server
 - npm run build — build production bundle
 - npm test — run tests
 - npm run lint — run linter
