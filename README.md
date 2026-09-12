@@ -46,7 +46,7 @@
 
 ## # Getting started
 
-Clone the repository and install the all dependencies:
+# Clone the repository and install the all dependencies:
 
 ```bash
 git clone https://github.com/ashokadi34/Project_Lumo.git
@@ -56,7 +56,7 @@ npm install
 
  # Run the app locally:
 
-- If this project uses Vite:
+# - If this project uses Vite:
   ```bash
   npm run dev
   ```
