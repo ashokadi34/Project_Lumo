@@ -60,7 +60,7 @@ npm install
   ```bash
   npm run dev
   ```
-## - If this project uses Create React App:
+ - If this project uses Create React App:
   ```bash
   npm start
   ```
