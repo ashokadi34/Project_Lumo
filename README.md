@@ -33,7 +33,7 @@
 #- Placeholder for routing, state management and API mocks
 #- Replace or extend these bullets with real features of your app
 
-## Tech stack
+## Tech stack used
 - React
 - TypeScript
 - [Optional: Vite / Create React App]
