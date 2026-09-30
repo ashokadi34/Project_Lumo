@@ -46,7 +46,7 @@
 
 -----
 
-# Clone the repository and install the all dependencies:
+> Clone the repository and install the all dependencies:
 
 ```bash
 git clone https://github.com/ashokadi34/Project_Lumo.git
