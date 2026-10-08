@@ -2,7 +2,7 @@
 
 A demo frontend application built with **React** and **TypeScript**, created for **UI development, testing, and learning purposes**.
 
-Project Lumo focuses on building and experimenting with frontend interfaces, reusable UI components, and testable application flows.
+## Project Lumo focuses on building and experimenting with frontend interfaces, reusable UI components, and testable application flows.
 
 ---
 
