@@ -82,7 +82,7 @@ This project can also be used as a demo application for practicing **functional,
 
 ## Prerequisites
 
-Before running the project locally, make sure the following are installed:
+> Before running the project locally, make sure the following are installed:
 
 * **Node.js**
 * **npm**
