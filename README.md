@@ -41,7 +41,7 @@ The project is primarily intended for:
 * Exploring reusable UI components
 * Creating testable application workflows
 
-This project can also be used as a demo application for practicing **functional, UI, regression, and automation testing**.
+> This project can also be used as a demo application for practicing **functional, UI, regression, and automation testing**.
 
 ---
 
