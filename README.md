@@ -29,7 +29,7 @@ A demo frontend application built with **React** and **TypeScript**, created for
 
 ## Overview
 
-**Project Lumo** is a frontend demo application developed using **React** and **TypeScript**.
+> **Project Lumo** is a frontend demo application developed using **React** and **TypeScript**.
 
 The project is primarily intended for:
 
