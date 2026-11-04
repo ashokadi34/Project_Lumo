@@ -156,7 +156,7 @@ The generated build can then be deployed to a suitable hosting platform.
 
 This project is designed to support UI and automation testing.
 
-If a test framework is configured in the project, run the available test command:
+> If a test framework is configured in the project, run the available test command:
 
 ```bash
 npm test
