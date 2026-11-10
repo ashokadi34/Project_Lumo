@@ -88,7 +88,7 @@ The project is primarily intended for:
 * **npm**
 * **Git**
 
-Verify the installations:
+# Verify the installations:
 
 ```bash
 node -v
