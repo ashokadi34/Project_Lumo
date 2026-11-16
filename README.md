@@ -260,7 +260,7 @@ Project_Lumo/
 
 Project Lumo is primarily a **learning, testing, and demonstration application**.
 
-It can be used as a frontend application for practicing:
+> It can be used as a frontend application for practicing:
 
 * React development
 * TypeScript development
