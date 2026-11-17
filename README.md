@@ -206,7 +206,7 @@ REACT_APP_API_URL=http://localhost:8080
 
 > Use the environment variable naming convention required by the frontend build tool configured in the project.
 
-Do not commit secrets, API keys, passwords, tokens, or other sensitive information to GitHub.
+> Do not commit secrets, API keys, passwords, tokens, or other sensitive information to GitHub.
 
 Add `.env` to `.gitignore`:
 
