@@ -122,7 +122,7 @@ npm install
 
 ## Running the Application
 
-Start the development server using the script configured in `package.json`.
+> Start the development server using the script configured in `package.json`.
 
 For a Vite-based application:
 
